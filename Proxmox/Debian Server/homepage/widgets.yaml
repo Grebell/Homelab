@@ -1,0 +1,18 @@
+- logo:
+    icon: https://cdn3.emoji.gg/emojis/5927-bunny-boba.png
+
+- resources:
+    expanded: true
+    cpu: true
+    memory: true
+    uptime: true
+    refresh: 1000
+
+- search:
+    provider: duckduckgo
+    target: _blank
+
+- datetime:
+    text_size: xl
+    format:
+      timeStyle: short
