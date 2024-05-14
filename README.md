@@ -2,7 +2,7 @@
 
 Welcome to my home lab Documentation and stuff!
 
-It's currently running on an HP OMEN laptop because my box server is messed up. (I think it's a network card issue.)
+It's currently running on an old HP OMEN laptop because my box server is messed up. (I think it's a network card issue.)
 
 ```
 Proxmox                  
