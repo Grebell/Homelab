@@ -9,6 +9,7 @@ Proxmox
 ├── NAS CT
 ├── TailScale CT
 └── Debian Server
+    ├── MC Server
     └── Portainer
         ├── Homepage
         └── P̶i̶H̶o̶l̶e̶ (not running, incompatible with the current router)
