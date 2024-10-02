@@ -9,8 +9,10 @@ Proxmox
 ├── NAS CT
 ├── TailScale CT
 └── Debian Server
-    ├── MC Server
-    └── Portainer
-        ├── Homepage
-        └── P̶i̶H̶o̶l̶e̶ (not running, incompatible with the current router)
+   X├── MC Server (maybe)
+    ├── Portainer
+    │   ├── Homepage
+    │  X└── Pihole (not running, incompatible with the current router)
+   X└── Plex (in progress)
+       X└── all the ARRs and tools to get it up and running
 ```
