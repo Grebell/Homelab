@@ -8,8 +8,8 @@ It's currently running on an old HP OMEN laptop because my box server is messed 
 Proxmox                  
 ├── NAS CT
 ├── TailScale CT
-├── Debian Server
-    ├── Portainer
-    ├── Homepage
-    └── P̶i̶H̶o̶l̶e̶ (not running, incompatible with the current router)
+└── Debian Server
+    └── Portainer
+        ├── Homepage
+        └── P̶i̶H̶o̶l̶e̶ (not running, incompatible with the current router)
 ```
