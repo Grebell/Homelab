@@ -1,1 +1,22 @@
+title: bunnylab
 
+background:
+  image: https://pbs.twimg.com/media/FXHcyBTXwAEjz3U?format=jpg&name=large
+  blur: sm
+  saturate: 50
+  brightness: 50
+  opacity: 50
+
+quicklaunch:
+    searchDescriptions: true
+    hideInternetSearch: true
+    hideVisitURL: true
+
+hideVersion: false
+
+useEqualHeights: true
+color: slate
+statusStyle: "dot"
+disableCollapse: true
+headerStyle: boxedWidgets
+theme: dark
