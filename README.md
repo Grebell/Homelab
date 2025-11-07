@@ -21,7 +21,7 @@ X├──tor
     └── Debian Server
        X├── MC Server (maybe)
         ├── Portainer
-        │   └── Homepage
+        │   └── Homepage (need to fix and add some things)
        X└── Plex
           X└── all the ARRs and tools to get it up and running
 ```
