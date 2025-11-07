@@ -11,6 +11,9 @@ OPNsense (emerging Threats BL)
 ├──ZenArmour (disabled)
 ├──UnboundDNS (DNS Blocking, and DNS over TLS)
 ├──Tailscale
+X├──vpn
+X├──nginx / acme
+X├──tor
 ---------------------- Temporary outage
 └── Proxmox                  
     ├── NAS CT
@@ -19,6 +22,6 @@ OPNsense (emerging Threats BL)
        X├── MC Server (maybe)
         ├── Portainer
         │   └── Homepage
-       X└── Plex (in progress)
+       X└── Plex
           X└── all the ARRs and tools to get it up and running
 ```
