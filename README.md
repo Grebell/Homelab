@@ -12,7 +12,6 @@ OPNsense (emerging Threats BL)
 ├──ZenArmour (disabled)
 ├──UnboundDNS (DNS Blocking, and DNS over TLS) (want to set up internal DNS)
 ├──Tailscale
-X├──vpn
 X├──nginx / acme
 X├──tor
 └── Proxmox                  
