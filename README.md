@@ -2,6 +2,7 @@
 
 Welcome to my home lab Documentation and stuff!
 
+X = to-do
 ```
 Modem
 | /\WAN/\
@@ -9,12 +10,11 @@ OPNsense (emerging Threats BL)
 | \/LAN\/
 ├──Suricata (Disabled)
 ├──ZenArmour (disabled)
-├──UnboundDNS (DNS Blocking, and DNS over TLS)
+├──UnboundDNS (DNS Blocking, and DNS over TLS) (want to set up internal DNS)
 ├──Tailscale
 X├──vpn
 X├──nginx / acme
 X├──tor
----------------------- Temporary outage
 └── Proxmox                  
     ├── NAS CT
     ├── TailScale CT (deprecated)
