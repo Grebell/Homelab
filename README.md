@@ -17,7 +17,7 @@ X├──nginx / acme
 X├──tor
 └── Proxmox                  
     ├── NAS CT
-    ├── TailScale CT (deprecated)
+    ├── Wazuh (Disabled)
     └── Debian Server
        X├── MC Server (maybe)
         ├── Portainer
