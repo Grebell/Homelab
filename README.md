@@ -7,7 +7,7 @@ X = to-do
 Modem
 | /\WAN/\
 OPNsense (emerging Threats BL)
-| \/LAN\/
+| \/LAN\/                                                                                                    \/VLAN0.2\/                 \/VLAN0.3\/
 ├──Suricata (Disabled)
 ├──ZenArmour (disabled)
 ├──UnboundDNS (DNS Blocking, and DNS over TLS) (want to set up internal DNS)
